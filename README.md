@@ -1,6 +1,6 @@
 # MCP AI SOC Sher
 
-A powerful AI-driven Security Operations Center (SOC) Text2SQL framework for converting natural language to SQL queries, with integrated security threat analysis and monitoring.
+A powerful AI-driven Security Operations Center (SOC) Text2SQL framework  based  MCP Server (Local and Remote) for converting natural language Prompts  to SQL queries dynamically, with integrated security threat analysis and monitoring.
 
 ## Features
 
