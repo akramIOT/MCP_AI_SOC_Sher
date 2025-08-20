@@ -1,4 +1,5 @@
 # MCP AI SOC Sher
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/akramIOT/MCP_AI_SOC_Sher)](https://archestra.ai/mcp-catalog/akramiot__mcp_ai_soc_sher)
 
 A powerful AI-driven Security Operations Center (SOC) Text2SQL framework  based  MCP Server (Local and Remote) for converting natural language Prompts  to SQL queries dynamically, with integrated security threat analysis and monitoring.
 
