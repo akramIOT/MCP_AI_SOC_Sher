@@ -11,6 +11,10 @@ A powerful AI-driven Security Operations Center (SOC) Text2SQL framework  based 
 - **Streaming Responses**: Real-time query processing feedback
 - **SOC Monitoring**: Security Operations Center monitoring capabilities
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/akramiot-mcp-ai-soc-sher).
+
 ## Installation
 
 ```bash
